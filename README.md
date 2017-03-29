@@ -1,11 +1,11 @@
 # 林郁寧 (Emma Lin)
 
- > Birthday: Oct 6<sup>th</sup>, 1991
- > Education: 輔仁大學 資訊管理學系
- > Location: Taipei
- > E-Mail: emma801006@hotmail.com
- > Mobile: 0936-315-117
- > Personal Website: https://github.com/BeautyEmma
+ > - Birthday: Oct 6<sup>th</sup>, 1991
+ > - Education: 輔仁大學 資訊管理學系
+ > - Location: Taipei
+ > - E-Mail: emma801006@hotmail.com
+ > - Mobile: 0936-315-117
+ > - Personal Website: https://github.com/BeautyEmma
 
 ---
 ### Experience 工作經歷
