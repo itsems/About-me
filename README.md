@@ -20,7 +20,7 @@
  - 企劃與執行行銷專案，分析客戶產業類型，目標客群，擬定行銷專案
 
 <hr>
-### FrontEnd Programming Language 專業技能
+#### FrontEnd Programming Language 專業技能
  - 熟悉 Responsive Web Design，能夠不倚賴 Framework 進行客製化
  - 善用 Framework 應用於網頁介面開發 (Bootstrap、pure.css)
  - 了解 jQuery 設計網頁動畫效果
