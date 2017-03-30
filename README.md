@@ -27,19 +27,20 @@
  - 了解 jQuery 設計網頁動畫效果
  - 了解 JSON/Ajax ，並介接第三方 API 設計 SPA 介面 ( Google Map、OPEN DATA )
  - 了解版本控制系統 ( Git、Github )
+ - 接觸過 SASS/SCSS 等 CSS 樣式表語言
 
 
 ### Portfolio 作品
-
-#### [高雄市政府文化局演出活動](https://beautyemma.github.io/hexschool_ajax/)
- - 於高雄市政府資料開放平台透過AJAX抓取開放資料JSON
- - favicon. Google SEO. FB SEO設定
- - Pure.css 前端框架應用
 
 #### [高雄市立圖書館資訊查詢](http://emma2.tone.com.tw/)
  - 於高雄市政府資料開放平台透過AJAX抓取開放資料JSON
  - Google Map API 串接
  - Bootstrap 應用
+
+#### [高雄市政府文化局演出活動](https://beautyemma.github.io/hexschool_ajax/)
+ - 於高雄市政府資料開放平台透過AJAX抓取開放資料JSON
+ - favicon. Google SEO. FB SEO設定
+ - Pure.css 前端框架應用
 
 #### [OmniFood形象官網](http://emma.tone.com.tw/)
  - 響應式設計
