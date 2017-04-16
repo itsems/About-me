@@ -26,8 +26,8 @@
  - 善用 Framework 應用於網頁介面開發 ( Bootstrap 、pure.css )
  - 了解 jQuery 設計網頁動畫效果
  - 了解 JSON/Ajax ，並介接第三方 API 設計 SPA 介面 ( Google Map、OPEN DATA )
- - 了解版本控制系統 ( Git、Github )
- - 接觸過 SASS/SCSS 等 CSS 樣式表語言
+ - 了解並會使用版本控制系統 ( Git、Github )
+ - 接觸過 SASS/SCSS 
 
 
 ### Portfolio 作品
