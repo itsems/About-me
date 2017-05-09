@@ -51,6 +51,9 @@
  - 響應式設計
  - Pure.css 應用
 
+ #### [JavaScript-TodoList](https://beautyemma.github.io/HexSchool_TodoList/)
+ - Javascript - LocalStorage應用
+
 ---
 ### Personality 關於我
  - 在上一份工作時發覺自己對網頁的熱忱，即開始努力建立基礎，力求突破。
