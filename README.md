@@ -39,7 +39,7 @@
  - facebook、Google SEO 關鍵字設計
  - jQuery 應用
 
-#### [高雄旅遊資訊](https://goo.gl/m92ueV)
+#### [高雄市觀光局旅遊資訊查詢](https://goo.gl/m92ueV)
  - Javascript、jQuery ( animate ) 應用
  - Bootstrap 應用
 
