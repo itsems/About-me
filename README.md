@@ -42,6 +42,8 @@
 #### [高雄市觀光局旅遊資訊查詢](https://goo.gl/m92ueV)
  - Javascript、jQuery ( animate ) 應用
  - Bootstrap 應用
+ - Animate.css 應用
+ - favicon. Google SEO. FB SEO設定
 
 #### [高雄市立圖書館資訊查詢](https://goo.gl/uSizpR)
  - 於高雄市政府資料開放平台透過AJAX抓取開放資料JSON
@@ -51,7 +53,7 @@
 #### [高雄市政府文化局演出活動](https://goo.gl/Pcpq0J)
  - 於高雄市政府資料開放平台透過AJAX抓取開放資料JSON
  - favicon. Google SEO. FB SEO設定
- - Pure.css 前端框架應用
+ - Pure.css 應用
 
  #### [JavaScript-TodoList](https://goo.gl/UzvosB)
  - Javascript - LocalStorage 應用
