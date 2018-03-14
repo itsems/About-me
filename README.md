@@ -4,11 +4,15 @@
  > - Education : 輔仁大學 資訊管理學系
  > - Location : 新北市新莊區捷運丹鳳站
  > - E-Mail : emma801006@hotmail.com
- > - Mobile : 0936-315-117
-
-
+ 
 ---
 ### Experience 工作經歷
+
+#### 毅達創意實業有限公司 (2017.6-now) 前端工程師
+ - 配合設計師設計稿，負責產品前端開發。
+ - RWD (Responsive-Web-Design) 網站開發及各式版型模組化。
+ - 與後端工程師協同網站SEO配置優化、效能優化、處理跨瀏覽器相容問題、除錯、維護等
+ - 最佳化使用者體驗、優化SEO
 
 #### 亞瑟國際資訊有限公司 (2015.6-2016.12) 程式工程師
  - 協助系統分析、建構資料庫、系統時程訂定、除錯處理
@@ -23,13 +27,15 @@
 
 ---
 ### FrontEnd Programming Language 專業技能
- - 熟悉 Responsive Web Design，能夠不倚賴 Framework 進行客製化
- - 善用 Framework 應用於網頁介面開發 ( Bootstrap 、pure.css )
- - 了解 Javascript、Javascript Librabry，如 jQuery 等設計網頁動畫效果
- - 了解 JSON/Ajax ，並介接第三方 API 設計 SPA 介面 ( Google Map、OPEN DATA )
- - 了解並會使用版本控制系統 ( Git、Github )
- - 接觸過 SASS/SCSS 
-
+ - 熟悉 HTML/CSS/JavaScript，具備跨瀏覽器相容性開發經驗。
+ - 熟悉 Responsive Web Design，能夠不倚賴 Framework 進行客製化。
+ - 熟悉 Framework 應用於網頁介面開發 ( Bootstrap、pure.css.. )。
+ - 熟悉任務自動化流程gulp，進而應用於預處理器 Pug、SASS、SCSS等。
+ - 具備使用 Javascript、Javascript Librabry，如 jQuery 等設計網頁動畫效果經驗。
+ - 了解 JSON/Ajax ，並介接第三方 API 設計 SPA 介面 ( Google Map、OPEN DATA )。
+ - 了解版本控制系統 ( Git、Github )。
+ - 具stackflow搜尋、尋找問題、解決問題能力。 
+ - 具良好溝通能力
 
 ### Portfolio 作品
 
@@ -39,7 +45,7 @@
  - facebook、Google SEO 關鍵字設計
  - jQuery 應用
 
-#### [高雄市觀光局旅遊資訊查詢](https://goo.gl/m92ueV)
+#### [高雄市觀光局旅遊資訊查詢](https://goo.gl/7gm9ap)
  - Javascript、jQuery ( animate ) 應用
  - Bootstrap 應用
  - Animate.css 應用
@@ -50,12 +56,12 @@
  - Google Map API 串接
  - Bootstrap 應用
 
-#### [高雄市政府文化局演出活動](https://goo.gl/Pcpq0J)
+#### [高雄市政府文化局演出活動](https://goo.gl/Dp72pd)
  - 於高雄市政府資料開放平台透過AJAX抓取開放資料JSON
  - favicon. Google SEO. FB SEO設定
  - Pure.css 應用
 
- #### [JavaScript-TodoList](https://goo.gl/UzvosB)
+ #### [JavaScript-TodoList](https://goo.gl/xaq7gF)
  - Javascript - LocalStorage 應用
 
  
