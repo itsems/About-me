@@ -3,7 +3,7 @@
  > - Birthday : Oct 6<sup>th</sup>, 1991
  > - Education : 輔仁大學 資訊管理學系
  > - Location : 新北市新莊區捷運丹鳳站
- > - E-Mail : emma801006@hotmail.com
+ > - E-mail : emma801006@hotmail.com
  
 ---
 ### Experience 工作經歷
@@ -38,13 +38,14 @@
  - 了解版本控制系統 ( Git、Github )。
  - 具Stack Overflow搜尋、尋找問題、解決問題能力。 
 
+---
 ### Achievements 實績
  - 已協同開發超過50個以上國內外活動網站、形象官網專案。
  - 曾將某政府機關主題網站，透過修正bug、調整html、css、js jq function，優化SEO，將該網站在政府網站檢核系統分數從41分提升到77分，通過檢核。並將原在w3c html、css檢測系統中一百多個錯誤全數清除。
  - 曾開發一周內上萬人次瀏覽、報名、參與等多項國內外活動網站。
  - 優化某美妝品牌活動網站，降低loading約60%的時間。
  
-
+---
 ### Portfolio 作品
 
 #### [OmniFood形象官網](https://goo.gl/nHZBRy)
