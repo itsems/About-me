@@ -39,7 +39,7 @@
 
 ---
 ### Achievements 實績
- - 已協同開發超過50個以上國內外活動網站、形象官網專案。
+ - 已協同開發超過百個以上國內外活動網站、形象官網專案。
  - 曾將某政府機關主題網站，透過修正bug、調整html、css、js jq function，優化SEO，將該網站在政府網站檢核系統分數從41分提升到77分，通過檢核。並將原在w3c html、css檢測系統中一百多個錯誤全數清除。
  - 曾開發一周內上萬人次瀏覽、報名、參與等多項國內外活動網站。
  - 優化某美妝品牌活動網站，降低loading約60%的時間。
@@ -54,10 +54,16 @@
  - jQuery 應用
 
 #### [高雄市觀光局旅遊資訊查詢](https://goo.gl/7gm9ap)
- - Javascript、jQuery ( animate ) 應用
+ - Javascript、jQuery 應用
  - Bootstrap 應用
  - Animate.css 應用
  - favicon. Google SEO. FB SEO設定
+
+#### [高雄市觀光局旅遊資訊查詢 - Vue.js 版本](https://goo.gl/sUatPP)
+ - Vue.js 應用
+ - 使用 Ajax套件 axio 抓取高雄市觀光局旅遊資訊公開資料
+ - methods,coumputed,created 生命週期hook等應用
+ - html動態標籤、ES6、Bootstrap 應用
 
 #### [高雄市立圖書館資訊查詢](https://goo.gl/uSizpR)
  - 於高雄市政府資料開放平台透過AJAX抓取開放資料JSON
