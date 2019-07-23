@@ -50,46 +50,50 @@
 
 #### 形象官網
 
-##### [udnFunLife udn 聯合數位文創 形象官網](http://bit.ly/udnFunLifeDemo)
+#### [udnFunLife udn 聯合數位文創 形象官網](http://bit.ly/udnFunLifeDemo)
 
 - RWD 響應式網頁設計
 - Bootstrap 、 jQuery 應用
 - Fullpage.js、parallax.js 應用
 - 開發維護時程：一年
 
-##### [台灣米其林輪胎 形象官網](http://bit.ly/TaiwanMichelin)
+#### [台灣米其林輪胎 形象官網](http://bit.ly/TaiwanMichelin)
 
 - RWD 響應式網頁設計
 - Bootstrap 、 jQuery 應用
 - css grid 應用
 - 開發維護時程：一年
 
-##### [安妮實業加 形象官網](http://bit.ly/lalifeplus)
+#### [安妮實業加 形象官網](http://bit.ly/lalifeplus)
 
 - RWD 響應式網頁設計
 - Vue.js 應用
 - 開發維護時程：一年
 
+---
+
 #### 活動網站
 
-##### [台電夏月節電計時答題遊戲](http://bit.ly/SpGame)
+#### [台電夏月節電計時答題遊戲](http://bit.ly/SpGame)
 
 - AWD 適應式網頁
 - 依隨機類型題別出題，點擊提示卡出現該題提示，答題倒數、答題正確錯誤題數計算
 
-##### [阿里雲雙十一活動小遊戲](http://bit.ly/AlibabaCloudDemo)
+#### [阿里雲雙十一活動小遊戲](http://bit.ly/AlibabaCloudDemo)
 
 - AWD 適應式網頁
 - 計時答題、答題正確錯誤題數計算、倒數秒數門檻關閉、背景音樂
 
-##### [桃園國際機場](http://bit.ly/TaoyuanAirport)
+#### [桃園國際機場](http://bit.ly/TaoyuanAirport)
 
 - AWD 適應式網頁
 - 地圖路線 animation、依 user 選擇不同選項出現不同心測答案
 
+---
+
 #### 企業內部系統
 
-##### [台灣之星 企業用戶平台](http://bit.ly/TstarEnterprise)
+#### [台灣之星 企業用戶平台](http://bit.ly/TstarEnterprise)
 
 - 建立台灣之星新版 CIS 切版版型
 - 依資訊需求建立介面
