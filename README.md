@@ -9,20 +9,21 @@
 
 ### Experience 工作經歷
 
-#### 毅達創意實業有限公司 (2017.6-now) 前端工程師
+#### 前端工程師 - 毅達創意實業有限公司 (2017.6-2019.6)
 
-- 配合設計師設計稿，負責產品前端開發。
-- RWD (Responsive-Web-Design) 網站開發及各式版型模組化。
-- 與後端工程師協同優化、除錯、維護等。
-- 主要承做活動網站、形象官網、政府公共單位案件。
+- 切版開發 - 搭配設計師以 PS、AI、XD、Zeplin 切版製作形象官網、活動網站、企業內部系統等 RWD、AWD，設計網站互動效果，解決瀏覽器相容性問題。
+- 改版優化 - 增修舊版網站功能、排除程式錯誤，優化 UI/UX 使用者瀏覽體驗、製作公版。
+- SEO 處理 – 檢視目前網站 SEO 處理方式、各搜尋引擎 SEO 排名狀況、優化專案 SEO 排名。
+- Back-end 技術溝通 – 依需求和後端工程師(php/ASP.net)討論後台需求及、程式結構處理方式，協同優化、除錯、維護等
+- UI/UX 介面溝通 – 與 PM 和 UI/UX 設計師溝通討論版面及藍圖需求，確認版面於專案中可行性與工時、力求還原度。
 
-#### 亞瑟國際資訊有限公司 (2015.6-2016.12) 程式工程師
+#### 維運工程師 - 亞瑟國際資訊有限公司 (2015.6-2016.12)
 
 - 協助系統分析、建構資料庫、系統時程訂定、除錯處理
 - 協助開發前端頁面、溝通需求
 - 資料庫備份還原，與客戶溝通系統需求
 
-#### 銷邦數位行銷有限公司 (2014.10-2015.3) 專案管理
+#### 專案執行企劃 - 銷邦數位行銷有限公司 (2014.10-2015.3)
 
 - 負責計畫、執行、及協調各項專案相關事宜
 - 負責專案管理，包含口碑操作，網路行銷，粉絲團經營，粉絲團廣告，聯播網廣告，活動規劃、口碑文操作、部落客聯繫、廠商聯繫，口碑流量監控，專案進度監控，管理工讀，管理及養成帳號
@@ -30,71 +31,73 @@
 
 ---
 
-### FrontEnd Programming Language 專業技能
+### Professional Skills 專業技能
 
-- 熟悉 HTML/CSS/JavaScript，具備跨瀏覽器相容性開發經驗。
-- 熟悉 Responsive Web Design，能夠不倚賴 Framework 進行客製化。
-- 熟悉 Framework 應用於網頁介面開發 ( Bootstrap、pure.css.. )。
-- 熟悉任務自動化流程 gulp，進而應用於預處理器 Pug、SASS、SCSS 等。
-- 具備使用 Javascript、Javascript Librabry，如 jQuery 等設計網頁動畫效果經驗。
-- 具備使用 Photoshop、Illustrator 等繪圖軟體技能，可與設計師流暢溝通 UI/UX 介面。
-- 了解 JSON/Ajax ，並介接第三方 API 設計 SPA 介面 ( Google Map、OPEN DATA )。
+- 能夠獨立切版切圖作業。
+- 以 VS code 為編輯器，開發流程以 gulp 任務自動化轉譯 PUG + SASS + ES6。
+- 熟悉 JavaScript 基本語法，ES6，具備跨瀏覽器相容性開發經驗。
+- 熟悉 Responsive Web Design，可不倚賴 Framework 進行客製化。
+- 熟悉 Framework 應用於網頁介面開發 ( Bootstrap、Pure.css.. )。
+- 具備 jQuery、jQuery Plugin 整合第三方套件設計動畫效果經驗。
+- 具備 SEO 基本知識。
+- 具備使用 Photoshop、Illustrator、Adobe XD、Zeplin 等 UI/UX 網頁視覺軟體技能，可與設計師流暢溝通 UI/UX 介面。
+- 了解 Ajax/ JSON，串接第三方 API 設計 SPA 架構 ( Google Map、OPEN DATA )。
 - 了解版本控制系統 ( Git、Github )。
-- 具 Stack Overflow 搜尋、尋找問題、解決問題能力。
-
----
-
-### Achievements 實績
-
-- 已協同開發超過百個以上國內外活動網站、形象官網專案。
-- 曾開發一周內上萬人次瀏覽、報名、參與等多項國內外活動網站。
 
 ---
 
 ### Portfolio 作品
 
-#### [OmniFood 形象官網](https://goo.gl/nHZBRy)
+#### 形象官網
+
+##### [udnFunLife udn 聯合數位文創 形象官網](http://bit.ly/udnFunLifeDemo)
 
 - RWD 響應式網頁設計
-- Google font. JS animate. ionicon 應用
-- facebook、Google SEO 關鍵字設計
-- jQuery 應用
+- Bootstrap 、 jQuery 應用
+- Fullpage.js、parallax.js 應用
+- 開發維護時程：一年
 
-#### [高雄市觀光局旅遊資訊查詢](https://goo.gl/7gm9ap)
+##### [台灣米其林輪胎 形象官網](http://bit.ly/TaiwanMichelin)
 
-- Javascript、jQuery 應用
-- Bootstrap 應用
-- Animate.css 應用
-- favicon. Google SEO. FB SEO 設定
+- RWD 響應式網頁設計
+- Bootstrap 、 jQuery 應用
+- css grid 應用
+- 開發維護時程：一年
 
-#### [高雄市觀光局旅遊資訊查詢 - Vue.js 版本](https://goo.gl/sUatPP)
+##### [安妮實業加 形象官網](http://bit.ly/lalifeplus)
 
+- RWD 響應式網頁設計
 - Vue.js 應用
-- 使用 Ajax 套件 axio 抓取高雄市觀光局旅遊資訊公開資料
-- methods,coumputed,created 生命週期 hook 等應用
-- html 動態標籤、ES6、Bootstrap 應用
+- 開發維護時程：一年
 
-#### [高雄市立圖書館資訊查詢](https://goo.gl/uSizpR)
+#### 活動網站
 
-- 於高雄市政府資料開放平台透過 AJAX 抓取開放資料 JSON
-- Google Map API 串接
-- Bootstrap 應用
+##### [台電夏月節電計時答題遊戲](http://bit.ly/SpGame)
 
-#### [高雄市政府文化局演出活動](https://goo.gl/Dp72pd)
+- AWD 適應式網頁
+- 依隨機類型題別出題，點擊提示卡出現該題提示，答題倒數、答題正確錯誤題數計算
 
-- 於高雄市政府資料開放平台透過 AJAX 抓取開放資料 JSON
-- favicon. Google SEO. FB SEO 設定
-- Pure.css 應用
+##### [阿里雲雙十一活動小遊戲](http://bit.ly/AlibabaCloudDemo)
 
-#### [JavaScript-TodoList](https://goo.gl/xaq7gF)
+- AWD 適應式網頁
+- 計時答題、答題正確錯誤題數計算、倒數秒數門檻關閉、背景音樂
 
-- Javascript - LocalStorage 應用
+##### [桃園國際機場](http://bit.ly/TaoyuanAirport)
+
+- AWD 適應式網頁
+- 地圖路線 animation、依 user 選擇不同選項出現不同心測答案
+
+#### 企業內部系統
+
+##### [台灣之星 企業用戶平台](http://bit.ly/TstarEnterprise)
+
+- 建立台灣之星新版 CIS 切版版型
+- 依資訊需求建立介面
 
 ---
 
-### Personality 關於我
+### Personal Statment 關於我
 
-- 在上一份工作時發覺自己對網頁的熱忱，即開始努力建立基礎，力求突破。
-- 英語能力於 2017 年應考多益分數 895 分，可日常簡易對話。
-- 樂於學習兼顧深度與廣度的技術與知識，認為人生就是一條走不完的學習之途，享受且熱愛學習的過程中所經歷所有的挫折與成就。
-- 樂觀開朗，追求高效率、精準溝通的團隊合作，及享受解決問題的源頭，並致力於優化使用者體驗。
+- 畢業於輔仁大學資訊管理學系，兩年前端工程師，一年維運工程師資歷。前端項目經驗包括公私部門之形象官網、活動網站、企業內部系統等餘百個專案項目，開發 RWD 響應式網頁、 AWD 適應式網頁，除切版製作外，另需適時與窗口、 PM 、 UI/UX 設計師、後端工程師共同溝通討論，力達專案需求，協同開發維護、後續更新處理。公部門如：桃園國際機場、經濟部、台電、台糖…等。私部門如：台灣米其林輪胎、台灣之星、華為、udn …等。
+
+- 任職維運工程師時發現對前端領域的興趣及熱忱，投入學習並規劃未來轉職方向。由於曾任網路行銷公司專案企劃，加上自習平面設計課程的背景，在團隊中經常扮演橋樑的角色，在跨部門之間作溝通協調，目前踏入前端工作已兩年，對於新技術抱有高度學習熱忱，在成長的路上，仍體認自己有所不足，持續督促自己精進前端技術，抱持開放心態勇於學習。
