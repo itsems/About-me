@@ -41,6 +41,7 @@
 - 具備 jQuery、jQuery Plugin 整合第三方套件設計動畫效果經驗。
 - 具備 SEO 基本知識。
 - 具備使用 Photoshop、Illustrator、Adobe XD、Zeplin 等 UI/UX 網頁視覺軟體技能，可與設計師流暢溝通 UI/UX 介面。
+- 了解 Vue.js 基本使用，包括：生命週期、component、router…等
 - 了解 Ajax/ JSON，串接第三方 API 設計 SPA 架構 ( Google Map、OPEN DATA )。
 - 了解版本控制系統 ( Git、Github )。
 
