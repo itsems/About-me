@@ -65,7 +65,7 @@
 - css grid 應用
 - 開發維護時程：一年
 
-#### [OmniFood 形象官網(Demo Project)](http://bit.ly/OmniFoodDemo)
+#### [OmniFood 形象官網 (Demo Project)](http://bit.ly/OmniFoodDemo)
 
 - 一頁式 RWD 響應式網頁設計
 - Google Font 應用、animate 應用
@@ -75,7 +75,7 @@
 - RWD 響應式網頁設計
 - 開發維護時程：一年
 
-#### [安妮實業加 形象官網](http://bit.ly/lalifeplus)
+#### [安妮實業加 LaLifePlus 形象官網](http://bit.ly/lalifeplus)
 
 - RWD 響應式網頁設計
 - Vue.js 應用
