@@ -7,6 +7,22 @@
 
 ---
 
+### Professional Skills 專業技能
+
+- 可獨立切版切圖、串接資料、除錯及完成工作事項。
+- 以 VS code 為編輯器，主要使用 Vue.js CLI 開發，開發流程以 Vue CLI，或 Gulp、Prepros 等自動化工具轉譯 PUG + SASS + ES6 為主。
+- 熟悉 Axios / Ajax 串接 RESTful API。
+- 熟悉 JavaScript、ES6 語法，具備跨瀏覽器相容性開發經驗。
+- 熟悉 Responsive Web Design，可不倚賴 Framework 進行客製化。
+- 熟悉 CSS Framework 應用於網頁介面開發 ( Bootstrap )。
+- 具備整合第三方套件設計動畫效果經驗 (jQuery、D3.js、Canvas、Chart.js, etc.)。
+- 具備使用 Photoshop、Illustrator、Adobe XD、Zeplin 等 UI/UX 網頁視覺軟體技能，可與設計師流暢溝通 UI/UX 介面。
+- 具備關聯式/非關聯式資料庫運行概念，可與後端工程師溝通討論資料邏輯。
+- 具備 SEO 基本知識，曾將新上線官網(無購買廣告關鍵字)拉至 Google 搜尋結果第一頁第三筆、Yahoo 搜尋結果第一筆， (YSMD-永欣建築)。
+- 具備版本控制、Code Review、Issue Tracking 系統使用經驗 ( Gerrit Git、GitLab、Mantis )。
+
+---
+
 ### Experience 工作經歷
 
 #### 前端工程師 - 友達光電股份有限公司 (2019.9-仍在職)
@@ -48,22 +64,6 @@
 - 擬定專案行銷企劃。
 - 整合與運用廣告、公關、媒體、品牌的資源，以提升公司形象及產品競爭力。
 - 計畫、執行與協調各項專案相關事宜。
-
----
-
-### Professional Skills 專業技能
-
-- 可獨立切版切圖、串接資料、除錯及完成工作事項。
-- 以 VS code 為編輯器，主要使用 Vue.js CLI 開發，開發流程以 Vue CLI，或 Gulp、Prepros 等自動化工具轉譯 PUG + SASS + ES6 為主。
-- 熟悉 Axios / Ajax 串接 RESTful API。
-- 熟悉 JavaScript、ES6 語法，具備跨瀏覽器相容性開發經驗。
-- 熟悉 Responsive Web Design，可不倚賴 Framework 進行客製化。
-- 熟悉 CSS Framework 應用於網頁介面開發 ( Bootstrap )。
-- 具備整合第三方套件設計動畫效果經驗 (jQuery、D3.js、Canvas、Chart.js, etc.)。
-- 具備使用 Photoshop、Illustrator、Adobe XD、Zeplin 等 UI/UX 網頁視覺軟體技能，可與設計師流暢溝通 UI/UX 介面。
-- 具備關聯式/非關聯式資料庫運行概念，可與後端工程師溝通討論資料邏輯。
-- 具備 SEO 基本知識，曾將新上線官網(無購買廣告關鍵字)拉至 Google 搜尋結果第一頁第三筆、Yahoo 搜尋結果第一筆， (YSMD-永欣建築)。
-- 具備版本控制、Code Review、Issue Tracking 系統使用經驗 ( Gerrit Git、GitLab、Mantis )。
 
 ---
 
